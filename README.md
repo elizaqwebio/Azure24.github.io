@@ -5,6 +5,7 @@ Theme : Smart Life
 
 https://github.com/elizaqwebio/Azure24.github.io/assets/150945940/59ea2766-df52-4ab5-b9da-ca163b19976e
 
+(https://elizaqwebio.github.io/Azure24.github.io/home.html)
 
 ![a (1)](https://github.com/elizaqwebio/Azure24.github.io/assets/150945940/54ca5f94-5f27-4a85-9841-ca64ab1aec58)
 ![a (2)](https://github.com/elizaqwebio/Azure24.github.io/assets/150945940/1dae106b-555a-44f8-867e-3e363f475321)
