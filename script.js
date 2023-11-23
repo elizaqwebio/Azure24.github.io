@@ -46,7 +46,7 @@ function clicklibrary() {
 }
 
 function clickjust() {
-    window.location = "hvsa.html";
+    window.location = "review.html";
 }
 
 function clickwhy() {
