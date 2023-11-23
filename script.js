@@ -36,3 +36,20 @@ function clickStart() {
 function clickGoNow() {
     window.location = "sids.html";
 }
+
+function clickhome() {
+    window.location = "home.html";
+}
+
+function clicklibrary() {
+    window.location = "library.html";
+}
+
+function clickjust() {
+    window.location = "hvsa.html";
+}
+
+function clickwhy() {
+    window.location = "why.html";
+}
+
